@@ -1,5 +1,4 @@
-Capstone
-Capstone project for Machine learning Nanodegree at Udacity
+Capstone proposal for Machine learning Nanodegree at Udacity
 
 ## Introduction
 
