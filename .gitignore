@@ -1,1 +1,8 @@
-/data
+data/
+checkpoint/
+.ipynd_checkpoints/
+glove.6B.300d.txt.word2vec
+tfidf_vec.pkl
+weight.h5.crdownload
+.floydexpt
+.floydignore
