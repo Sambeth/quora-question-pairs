@@ -36,4 +36,4 @@ Simply run the notebook server using the standard Jupyter command:
 
 ## Neural Network Architecture
 
-![[Keras model architecture for Quora Duplicate Questions ]](LSTM diagram.png)
+![Keras model architecture for Quora Duplicate Questions](LSTM_diagram.png)
