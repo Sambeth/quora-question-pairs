@@ -1,8 +1,15 @@
 data/
 checkpoint/
-.ipynd_checkpoints/
+.ipynb_checkpoints/
 glove.6B.300d.txt.word2vec
 tfidf_vec.pkl
 weight.h5.crdownload
 .floydexpt
 .floydignore
+RNN-unrolled.png
+finaldata.csv
+lstm_module.jpg
+lstm_module.png
+readydata.csv
+sigmoid.png
+sigmoid.svg
